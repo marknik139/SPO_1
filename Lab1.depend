@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1646934610 source:c:\users\markn\onedrive\desktop\lab1\lab1\main.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+
+1647622898 source:c:\users\markn\onedrive\desktop\prog\lab1\main.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+
